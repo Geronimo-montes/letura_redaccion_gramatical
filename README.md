@@ -119,3 +119,30 @@ Te moverás unos pocos pasos para que la luz de las  veladoras no te ciegue. La 
 - Si. Voy a vivir con ustedes.
 LA ANCIANA SONRREIRA, INCLUSO CON SU TIMBRE agudo y dirá que la agrada tu bunea voluntad y que la joven te mostrara tu recamara, mientras tu piensas en el sueldo de cuatro mil pesos, el trabajo pque puede ser agradable porque a tu te gustan estas tareas meticulosas de investigación, que excluyen el esfuerzo fisico, el traslado de un lugar a otro, los encuentros inevitables y molestos con otras personas. Piensas en todo esto al seguir los pasos de la joven
 ```
+# SESION #04 07/07/23 12:15 a.m.
+- __PALABRAS  :__ `713`
+- __PUNTUACION:__ `61%`
+- __ORTOGRAFIA:__ `20`
+- __GRAMATICA :__ `7`
+- __PAGINA    :__ `16`
+```
+-te das cuneta de que no la sigues con la vista, sino con el oído: sigues el susurro de la faldam el crujido de una tafeta- y eseta ansiando, ya, mirar nuevamente esos ojos. Ascendientes detrás de ruido, en medio de la oscuridad, sin, acostumbrarte aún a las tiniebas: recuerdas que deben ser cerca de las seis de la tarde y te sorprende la inundacion de luz de tu recamara, cuando la mano de Aura empuje la puerta
+- otra puerta sin cerradura- y en seguida se aparte de ella y te diga: 
+- Aquí es su cuarto. Lo esperamos a cenar dentro de una hora.
+Y se alejara, con es ee ruido tafetam sin que hayas podido ver otra vez su rostro.
+Cierras -empujas- la puerta detrás de tu y al fin levantas los ojos hacia el traga luz inmenso que hace las veces de techo. Sonríes al darte cuenta de que ha bastado la luz del crepúsculo para cegarte y contrastar con la penubra del resto de la casa. Prueba, con alegría, la blandura del colchón en la cama de metal daroda y recorres con la mirada el cuarto: el tapete de lana roja, los muros empapelados, oro y oliva, el sillón de terciopelo rojo, la vieja mesa de trabajo, nogal y cuero verde, la lámpara antigua, de quinqué, luz opaca de tus noches de investigación, el estante clavado encima de la mesa, al alcance de tu mano, con los tomo encuadernados. Caminas hacia la otra puerta y al empujarla descubres un baño pesado de moda: tuna de cuatro patas, con florecillas pintada sobre la porcelana del guardarropa, también de nogal, colocado en la sala de baño. Muebes tus cejas pobladas, tu boca larga y gruesa que llena de vaho el espejo; cierras la respiración y te pasas una mano por el pelo oscuro y lacio; tocas con ella tu perfil recto, tus mejillas delgadas. Cuando el vaho opaque otra vez el rostro, estarás repitiendo ese nombre, Aura.
+
+Consultas el reloj, después de fumar dos cirgarrillos, recostado en la cama. De pie, te pones el saco y te pasas el peine por el cuello. Empujas la puerta y tratas de recordar el camino que recorriste al subir. Quisieras dejar la puerta abierta, para que la luz del quinqué te guié: es imposible, porque los resortes la cierran. Podrías entretenerte columpiando esa puerta. Podrias tomar el quinqué y descender con el. Renuncias porque ya sabes que esta casa siempre se encuentra a oscuras. Te obligaras a conocerla y reconocería por el tabaco. Avanzas con cautela, guiñando, en el centre iluminado de ese largo pasillo desnudo. Al fondo, el pasamanos y la escalera caracol..
+
+Desciendes contando los peldaños: otra costumbre inmediata que te habrá impuesto la casa de la señora Llorente. Bajas contando y te das un paso atrás cuando encuentras los ojos rosados del conejo que en seguida te da la espalda y sale saltando.
+
+No tienes tiempo de detenerte en el vestibulo porque Aura, desde una puerta entreabuerta de cristales opacos, te estará esperando con el candelabro en la mano. Caminas, sonrriendo, hacia ella; te detines al escuchar los maullidos dolorosos de varios gatoss -si, te detienes a escuchar, ya cerca de la mano de Aura, para cerciorarte de que son varios gatos- y la sigues a la sala: Son dos gatos -dirá Aura-. Hay tanto ratón en esta parte de la ciudad.
+
+Cruzan el salón: muebles forrados de seda mate, vitrinas donde han sido colocados muñecos de porcelana, relojes musicales, condecoraciones y bolas de cristal: tapetes de diseño persa, cuadros con escenas bucólicas, las cortinas de terciopelo verde corridas. Aura viste de verde.
+-¿Se encuentra cómodo?
+-Si. Pero necesito recojer mis cosas en la casa donde...
+-No es necesario. El criado ya fue a buscarlas.
+-No se hubieran molestado.
+
+Entras, siempre detrás de ella, al comedor. Ella colocara el candelabro en el cetro de la mesa; tú sientes un frió húmedo. Todos los muros del salón están recubiertos de una madera oscura, labrada al estilo gótico, con ojivas y resetones colocados. Los gatos han dejado de maullar. Al tomar asiento, notas que han sido dispuestos cuatro cubiertos y que hay dos platones calientes bajo cacerolas de plata y una botella vieja y brillante por el lino verdoso que la cubre.
+```
