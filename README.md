@@ -5,6 +5,7 @@
 - [`SESION #05`](#sesion-05-160723)
 - [`SESION #06`](#sesion-06-160723)
 - [`SESION #07`](#sesion-07-000723)
+- [`SESION #08`]()
 
 # SESION #01 03/07/2023
 |Categoria  |Valor|
@@ -247,15 +248,61 @@ Duermes, sin sonar, hasta que el chorro de luz te despierta, a las seis de la ma
 
 Llega a tus oídos con una vibración atroz, rasgante, imploración. Intentas ubicar su origen: abres la puerta que da al corredor y allí no lo escuchas: esos maullidos se cuelan desde lo alto, desde el tragaluz. Trepas velozmente a la silla, de la silla a la mesa de trabajo, y apoyándote en el librero puedes alcanzar el tragaluz, abrir uno de sus vidrios, elevarte con esfuerzo y clavar la mirada en ese jardín lateral, ese cubo de tejos y zarzas enmarañadas donde cinco, seis, siete gatos --no puedes contarlos: no puedes sostenerte allí mas de un segundo-- encadenados unos con otros, se revuelcan envueltos en fuego, desprenden un humo opaco, un olor de pelambre incendiada. Dudas, al caer sobre la butaca, si en realidad has visto eso: quizás solo uniste esa imagen a los maullidos espantosos que persisten, disminuyen, al cabo terminar.
 ```
-# SESION #07 00/07/23
+# SESION #07 16/07/23
 |Categoria  |Valor|
 |-----------|-----|
-|PALABRAS  :|`-`  |
-|PUNTUACION:|`-`  |
-|ORTOGRAFIA:|`-`  |
-|GRAMATICA :|`-`  |
-|PAGINA    :|`-`  |
+|PALABRAS  :|`839`|
+|PUNTUACION:|`60%`|
+|ORTOGRAFIA:|`19` |
+|GRAMATICA :|`16` |
+|PAGINA    :|`25` |
 ```
-...que persisten, disminuyen, al cabo terminar.
+Te pones la caminsa, pasas un papel sobre las puntas de tus zapatos negros y escuchas, esta vez, el aviso de la campana que parece recorrer los pasillos de la casa y acercarse a tu puerta. Te asomas al corredor: Aura camina con esa campana en la mano, inclinada la cabeza al verte, te dice que el desayuno esta listo. Tratas de deternela; Autraya descenderá por la escalera de caracol, tocando la campana pintada de negro, como si se tratara de lenvantar a todo hospicio, a todo un internado.
 
+La sigues, en mangas de camisa, pero al llegar al vestibulo ya no la encuentras. La puerta de la recamara de la anciana se abre a tus espaldas: alcanzas a ver la mano que asoma detrás de la puerta apenas abierta, coloca esa porcelana en el vestíbulo y se retira, cerrado de nuevo.
+
+En el comedor, encuentras tu desayuno servido: esta vez, solo un cubierto. Comes rápidamente, regresas al vestíbulo, tocas a la puerta de la señora Consuelo. Esa voz débil y aguda te pide que entres. Nada habrá cambiado. La oscuridad permanente. El fulgor de las veladoras y los milagros de plata
+
+--Buenos días, señor Montero. ¿Durmió bien?
+
+--Si. Leí hasta tarde.
+
+La dama agitara una mano, como si deseara alejarte.
+
+--No, no, no. No me adelante su opinión. Trabaje sobre esos papeles y cuando termine le pasare los demás.
+
+--Esta bien, señora, ¿Podría visitar el jardin?
+
+--¿Cuál jardín, señor Montero?
+
+--El que esta detrás de mi cuerto.
+
+--En esta casa no hay jardín. Perdimos el jardín cuando construyeron alrededor de la casa.
+
+--Pensé que podría trabajar mejor al aire libre.
+
+--En esta casa solo ha ese patio oscuor por donde entro usted. Allí mi sobrina cultiva algunas plantas de sombra. Pero eso es todo.
+
+--Esta bien, señora.
+
+--Deseo descansar todo el día. Pase a verme esta noche.
+
+--Esta bien, señora.
+
+Revisas todo el día los papeles, pasando en limpio los parrafos que piensas retener, redactando de nuevo los que te parecen débiles, fumando cigarrillo tras cigarrillo y reflexionando que debes espaciar tu trabajo para uqe la canonjía se prolongue lo mas posible. Si logras ahorrar por los menos doce mil pesos, podrías pasar cerca de un año desdicado a tu propia obra, aplazada, casi olvidada. Tu gran obra de conjunto sobre descubrimientos y conquistas españolas en América. Una obra que resuma todas las crónicas dispersas, las haga inteligibles, encuentre las correspondencias entre todas las empresas y aventuras del siglo de oro, entre los prototipos humanos y el hecho mayor del Renacimiento. En  realidad, terminas por abandonar los tedíosos papeles del militar del Imperio para empezar la redacción de fichas y resúmenes de tu propia obra. EL tiempo corre y solo al escuchar de nuevo la campana consultas tu reloj, te pones el saco y bajas al comedor.
+
+Aura ya estará sentada; esta vez la cabecera la ocupara la señora Llorente, envuelta en su chal su camisón, tocada con su cofia, agachada sobre el plato. Pero el cuarto también esta puesto. Lo notas de pasada; ya no te preocupa. Si el precio de tu futura libertad creadora es aceptar las manías de esta anciana, puedes pagarlo sin dificultad. Tratas, mientras la ves sorber la sopa, de calcular su edad. Hay un momento en el cual ya no es posible distinguir el paso de los años: la señora Consuelo, desde hace tiempo, paso esa frontera. El general no la menciona en lo que llevas leído de las memorias. Pero si el general tenia cuarenta y dos años en el momento de la invasión francesa y murió en 1901, cuarenta años mas tarde, habría mueto de ochenta y dos años. Se abría casado con la señora Consuelo después de la derrota de Querétaro y el exilio, pero habría sido una niña entonces...
+
+Las fechas te confundirán, porque la señora esta hablando, con ese murmullo agudo, leve, ese chirreo de pájaro; le esta hablando Aura y tu escuchas, atento a la comida, ese enumeración plana de quejas, dolores, sospechas de enfermedades, mas quejas sobre el precio de las medicinas, la humedad de la casa. Quisieras intervenir en la conversación demostica preguntando por el criado que recogió ayer tus cosas pero al que nunca has visto, el que nun sirve la mesa: lo preguntarías si, de repente, no te sorprendiera que Aura, hasta ese momento, no hubiese abieto la boca y comiese con esa fatalidad mecánica, como si esperara un impulo ajeno a ella para tomar la cuchara, el cuchillo, partir lo rifiones --sientes en la boca, otra vez, esa dieta de rifiones, por lo visto la preferida de la casa-- y llevárselos a la boca. Miras rápidamente de la tía a la sobrina y de la sobrina a la tía, pero la señora Consuelo, en ese instante detiene todo movimiento y, al mismo tiempo, Aura deja el cuchillo sobre el plato y permanece inmóvil y tu recuerdas que, una fracción de segundo antes, la señora Consuelo hizo lo mismo.
+```
+# SESION #08 00/07/23
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`839`|
+|PUNTUACION:|`60%`|
+|ORTOGRAFIA:|`19` |
+|GRAMATICA :|`16` |
+|PAGINA    :|`25` |
+```
+...una fracción de segundo antes, la señora Consuelo hizo lo mismo.
 ```
