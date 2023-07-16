@@ -255,8 +255,7 @@ Llega a tus oídos con una vibración atroz, rasgante, imploración. Intentas ub
 |ORTOGRAFIA:|`-`  |
 |GRAMATICA :|`-`  |
 |PAGINA    :|`-`  |
-|PAGINA    :|`-`  |
-....que persisten, disminuyen, al cabo terminar.
 ```
+...que persisten, disminuyen, al cabo terminar.
 
 ```
