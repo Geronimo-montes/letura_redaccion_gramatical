@@ -1,6 +1,6 @@
 - [`SESION #01`](#sesion-01-03072023)
 - [`SESION #02`](#sesion-02-04072023)
-- [`SESION #3`](#sesion-03-05072023)
+- [`SESION #03`](#sesion-03-05072023)
 - [`SESION #04`](#sesion-04-070723)
 - [`SESION #05`](#sesion-05-160723)
 - [`SESION #06`](#sesion-06-160723)
