@@ -146,3 +146,58 @@ Cruzan el salón: muebles forrados de seda mate, vitrinas donde han sido colocad
 
 Entras, siempre detrás de ella, al comedor. Ella colocara el candelabro en el cetro de la mesa; tú sientes un frió húmedo. Todos los muros del salón están recubiertos de una madera oscura, labrada al estilo gótico, con ojivas y resetones colocados. Los gatos han dejado de maullar. Al tomar asiento, notas que han sido dispuestos cuatro cubiertos y que hay dos platones calientes bajo cacerolas de plata y una botella vieja y brillante por el lino verdoso que la cubre.
 ```
+# SESION #05 16/07/23
+- __PALABRAS  :__ `777`
+- __PUNTUACION:__ `72%`
+- __ORTOGRAFIA:__ `11`
+- __GRAMATICA :__ `11`
+- __PAGINA    :__ `19`
+```
+Aura apartara la cacerola. Tu aspiras ell olor pungente de los riñones en salsa de cebolla que ella te sirve mientras tu tomas la botella vieja y llenas los vasos de cristal cortado con ese liquido rojo y espeso. Tratasm por curiosidad, de leer la etiqueta del vino, pero el limo lo impide. Del otro platón, Aura toma unos tomates enteros, asdados
+
+--Perdón --dices, observando los dos cubiertos extra, las dos sillas desocupadas-- Esperamos a alguien mas?
+
+Aura continúa sirviendo los tomates:
+
+--No. La señora Consuelo se siente débil esta noche. No nos acompañara.
+
+--¿La señora Consuelo?¿Su tía?
+
+--Si. Le ruega que pase a verla después de la cena.
+
+Comen en silencio. Beben ese vino particularmente espeso, y tu desvías una y otra vez la mirada para que Aura no te sorprenda en esa impudicia hipnótica que no puedes controlar. Quieres, aún entonces, fijar las facciones de la muchacha en tu mente. Cada vez que desvíes la mirada, las habrás olvidado ya y una urgencia impostergable te obligara a mirarla de nuevo. Ella mantiene, como siempre, la mirada baja y tu, al buscar el paquete de cigarrillos en la bolsa del saco, encuentras ese llavín, recuerdas, le dices a Aura:
+
+--¡Ah! Olvide que un cajón de mi mesa esta cerrado con llave. Allí tengo mis documentos. Y ella murmura:
+
+--Entonces... ¿quiere salir usted?
+
+Lo dice como un reproche. Tu te sientes confundido y alargas la mano con el llavín colgado de un dedo, se lo ofreces.
+
+--No urge.
+
+Pero ella se aparta del contacto de tus manos, mantiene las suyas sobre el regazo, al fin levanta la mirada y tu vuelves a dudar de tus sentidos, atribuyes al vino el aturdimiento, el mareo que te producen esos ojos verdes, limpios, brillantes, y te pones de pie, detrás de Aura, acariciando el respaldo de madera de la silla gótica, sin atreverte a tocar los hombros desnudos de la muchacha, la cabeza que se mantiene inmóvil. Haces un esfuerzo para contenerte, distraes tu atención escuchando el batir inperceptible de otra puerta, a tus espaldas, que de debe conducir a la cocina, descompones los dos elementos plásticos del comedor: el circulo de luz compacta que arroja el candelabro y que ilumina la mesa y un extremo del muro labrado, le circulo mayor, de sombre, que rodea al primero. Tienes, al fin, el valor de acercarte a ella, tomar su mano, abrirla y colocar el llavero, la prenda, sobre esa palma lisa.
+
+La veras apretar el puño, buscar tu mirada, murmurar:
+
+--Gracias. --, levantarse, abandonar de prisa el comedor.
+
+Tu tomas el lugar de Aura, estiras las piernas, enciendes un cigarrillo, invadido por un placer que jamás has conocido, que sabias parte de ti, pero que solo ahora experimentas plenamente, liberándolo, arrojándolo fuera porque sabes que esta vez encontrara respuesta... Y la señora Consuelo te espera: ella te lo advirtió: te espera después de la cena. ..
+
+Has aprendido el camino. Tomas el candelabro y cruzas la sala y el vestibulo. La primera puerta, frente a ti, es la de la anciana. Tocas con los nudillos, sin obtener respuesta. Tocas otra vez. Empujas la puerta: ella te espera. Entras con cautela, murmurando:
+
+--Señora... Señora...
+
+Ella no te habrá escuchado, porque la descubres hincada ante ese muro de las devociones, con la cabeza apoyada contra los puños cerrados. La vez de lejos: hincada, cubierta por ese camisón de lana burda, con la cabeza hundida em los hombros delgados: delgada como una escultura medieval, emaciada: las piernas se asoman como dos hebras debajos del camisón, llacas, cubiertas por una erisipela inflamada; piensas en el roce continuo de la tosca lana sobre la piel, hasta que ella levanta los puños y pega al aire sin fuerzas, como si librara una batalla contras las imágenes que, al acercarte, empiezas a distinguir: Cristo, Maria, San Sebastián, Santa Lucia, el Arcángel Miguel, los demonios sonrientes, los únicos sonrientes en esta iconografía del dolor y la cólera: sonrientes porque, en el viejo grabado iluminado por las veladoras, ensartan los tridentes en la piel de los condenados, les vacían calderones de agua hirviente, violan a las mujeres, se embriagan, gozan de la libertad vedada de los santos. Te acercar a esa imagen central, rodeada por las lagrimas de la Dololrosa, la sangre del Cricificado, el gozo de Luzbel, la cólera del Arcángel, las víceras conservadas en frascos de alcohol, los corazones de plata: la señora Consuelo, de rodillas, amenza con los puños, balbucea las palabras que, ya cerca de ella, puedes escuchar:
+
+--Llega, Ciudad de Dios; suena, trompeta de Gabriel; ¡Ay, pero como tarda en morir el mundo!
+
+```
+# SESION #06 00/07/23
+- __PALABRAS  :__ `-`
+- __PUNTUACION:__ `-`
+- __ORTOGRAFIA:__ `-`
+- __GRAMATICA :__ `-`
+- __PAGINA    :__ `-`
+```
+
+```
