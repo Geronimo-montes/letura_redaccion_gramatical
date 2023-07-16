@@ -1,16 +1,18 @@
-# SESION #0 
-- __PALABRAS  :__ `-`
-- __PUNTUACION:__ `-`
-- __ORTOGRAFIA:__ `-`
-- __GRAMATICA :__ `-`
-- __PAGINA    :__ `-`
-```
-```
+- [`SESION #01`](#sesion-01-03072023)
+- [`SESION #02`](#sesion-02-04072023)
+- [`SESION #3`](#sesion-03-05072023)
+- [`SESION #04`](#sesion-04-070723)
+- [`SESION #05`](#sesion-05-160723)
+- [`SESION #06`](#sesion-06-160723)
+- [`SESION #07`](#sesion-07-000723)
+
 # SESION #01 03/07/2023
-- __PALABRAS  :__ `547`
-- __PUNTUACION:__ `52%`
-- __ORTOGRAFIA:__ `21`
-- __GRAMATICA :__  `6`
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`547`|
+|PUNTUACION:|`52%`|
+|ORTOGRAFIA:|`21` |
+|GRAMATICA :| `6` |
 ```
 Aura de Carlos Fuentes
 Lees ese anuncio: Una oferta de esa naturaleza no se hace todos los días. Lees y relees el aviso. Parece dirigido a ti, a nadie mas. Distraído, dejas que la ceniza del cigarro caiga dentro de la taza de te que has estado bebiendo en este cafetín sucio y barato.Tu reelerás. Se solicita historiador joven. Ordenado. Escrupulento. Conocedor de la lengua francesa. Conocimiento perfecto, coloquial. Capaz de desempeñar labores de secretario. Juventud, conocimiento del francés, preferible si ha vivido en Francia algún tiempo. Tres mil pesos mensaules, comida y recamara cómoda, asoleada, apropiada estudio. Solo falta tu nombre. Solo falta que las letras mas negras y llamatias del aviso informen: Felipe Montero. Se solicita Felipe Montero, antiguo becario en la Sorbona, historiador cargado de datos inútiles, acustumbrado a exhumar papeles amarillentos, profesor axuiliar en escuelas particulares, novecientos pesos mensuales. Pero si leyeras eso, sospecharías lo tomarías a broma. Donceles 815. Acuda en persona. No hay teléfono.
@@ -22,11 +24,13 @@ Vivirás es día, idéntico a los demás, y no volverás a recordarlo sino al d�
 Te sorprenderá imaginar que alguien vive en la calle de Donceles. Siempre has creído que en el viejo centro de la ciudad no vive nadie. Caminas con lentitud, tratando de distinguir el numero 815 en este conglomerado de viejos palacios coloniales convertidos en talleres de reparación, relojerías, tiendas de zapatos y expendidos de aguas frescas. Las nomeclaturas han sido revisadas, superpuestas, confundidas. El 13 junto al 200, el antigup azulejo numerado "47" encima dde lla nueva advertencia pintada con tiza: ahora el 924. Levantaras la mirada a los segundos pisos: allí nada cambia. Las sinfonolas no pertuban, las luces de los edificios. Unidad de tezontle, lo nichos con sus santos truncos coronados, las troneras y los canales de lamina, las gárgolas de arenisca. Las ventanas ensombrecidas por largas cortinas verdosas: esa ventana de la cual se retira alguien en cuanto la miras, miras la portada de vides caprichosas, bajas la marida al zaguán despintado y descubres 815, antes 69.
 ```
 # SESION #02 04/07/2023
-- __PALABRAS  :__ `732`
-- __PUNTUACION:__ `32%`
-- __ORTOGRAFIA:__ `47`
-- __GRAMATICA :__ `9`
-- __PAGINA    :__ `9`
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`732`|
+|PUNTUACION:|`32%`|
+|ORTOGRAFIA:|`47` |
+|GRAMATICA :|`9`  |
+|PAGINA    :|`9`  |
 ```
 Tocas en vano con esa manija, esa cabeza de perro en cobre, gastada, sin relieves: semejante a la cabeza de un fetó camino a los museos de ciencias naturales. Imaginas que el perro te sonrríe y sueltas su contacto helado. La puerta cede la empuje levísimo, de tus dedos, y antes de entrar miras por ultima vez sobre tu hobro, frunce el ceño porque la larga fila detenida de camiones y autos ggruñe, pita, suelta el humo insano de su prisa. Tratas, inútilmente de retener una sola imagen de ese mundo exterior indiferenciado.
 
@@ -64,12 +68,14 @@ Lograras verla cuando des la espalda a ese firmamento de luces devotas. Tropieza
 
 Te aparta para que la luz combinada de la plata, la cera y el vidrio dibuje esa cofia de seda que debe recojer un pelo muy blanco y enmarcar un rostro asi infantil de tan viejo, Los apretados botones del cuello blaco que sube hasta las ordejas ocultas por la cofia, las sabanas y los edredones velan todo el cuerpo con excepción de los brazos envueltos en un chal de estambre, las manos pálidas que descansan sobre el vientre: solo puedes fijarte en el rostrom hasta que un movimiento del conejo te permite desviar la mirada y observar con disimulo esasmigajas, esas costras de pan regadas sobre los edredones de seda roja, raídos y sin lustre.
 ```
-# SESION #3 05/07/2023 9:40 p.m.
-- __PALABRAS  :__ `802`
-- __PUNTUACION:__ `59%`
-- __ORTOGRAFIA:__ `19`
-- __GRAMATICA :__ `15`
-- __PAGINA    :__ `13`
+# SESION #03 05/07/2023
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`802`|
+|PUNTUACION:|`59%`|
+|ORTOGRAFIA:|`19` |
+|GRAMATICA :|`15` |
+|PAGINA    :|`13` |
 ```
 - Voy al grano. No me quedan muchos años por delante, señor Montero, y por ello he preferido violar la costumbre de toda una vida y colocar ese anuncio en el periódico.
 -Si, por eso estoy aquí.
@@ -119,12 +125,14 @@ Te moverás unos pocos pasos para que la luz de las  veladoras no te ciegue. La 
 - Si. Voy a vivir con ustedes.
 LA ANCIANA SONRREIRA, INCLUSO CON SU TIMBRE agudo y dirá que la agrada tu bunea voluntad y que la joven te mostrara tu recamara, mientras tu piensas en el sueldo de cuatro mil pesos, el trabajo pque puede ser agradable porque a tu te gustan estas tareas meticulosas de investigación, que excluyen el esfuerzo fisico, el traslado de un lugar a otro, los encuentros inevitables y molestos con otras personas. Piensas en todo esto al seguir los pasos de la joven
 ```
-# SESION #04 07/07/23 12:15 a.m.
-- __PALABRAS  :__ `713`
-- __PUNTUACION:__ `61%`
-- __ORTOGRAFIA:__ `20`
-- __GRAMATICA :__ `7`
-- __PAGINA    :__ `16`
+# SESION #04 07/07/23
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`713`|
+|PUNTUACION:|`61%`|
+|ORTOGRAFIA:|`20` |
+|GRAMATICA :|`7`  |
+|PAGINA    :|`16` |
 ```
 -te das cuneta de que no la sigues con la vista, sino con el oído: sigues el susurro de la faldam el crujido de una tafeta- y eseta ansiando, ya, mirar nuevamente esos ojos. Ascendientes detrás de ruido, en medio de la oscuridad, sin, acostumbrarte aún a las tiniebas: recuerdas que deben ser cerca de las seis de la tarde y te sorprende la inundacion de luz de tu recamara, cuando la mano de Aura empuje la puerta
 - otra puerta sin cerradura- y en seguida se aparte de ella y te diga: 
@@ -147,11 +155,13 @@ Cruzan el salón: muebles forrados de seda mate, vitrinas donde han sido colocad
 Entras, siempre detrás de ella, al comedor. Ella colocara el candelabro en el cetro de la mesa; tú sientes un frió húmedo. Todos los muros del salón están recubiertos de una madera oscura, labrada al estilo gótico, con ojivas y resetones colocados. Los gatos han dejado de maullar. Al tomar asiento, notas que han sido dispuestos cuatro cubiertos y que hay dos platones calientes bajo cacerolas de plata y una botella vieja y brillante por el lino verdoso que la cubre.
 ```
 # SESION #05 16/07/23
-- __PALABRAS  :__ `777`
-- __PUNTUACION:__ `72%`
-- __ORTOGRAFIA:__ `11`
-- __GRAMATICA :__ `11`
-- __PAGINA    :__ `19`
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`777`|
+|PUNTUACION:|`72%`|
+|ORTOGRAFIA:|`11` |
+|GRAMATICA :|`11` |
+|PAGINA    :|`19` |
 ```
 Aura apartara la cacerola. Tu aspiras ell olor pungente de los riñones en salsa de cebolla que ella te sirve mientras tu tomas la botella vieja y llenas los vasos de cristal cortado con ese liquido rojo y espeso. Tratasm por curiosidad, de leer la etiqueta del vino, pero el limo lo impide. Del otro platón, Aura toma unos tomates enteros, asdados
 
@@ -192,12 +202,61 @@ Ella no te habrá escuchado, porque la descubres hincada ante ese muro de las de
 --Llega, Ciudad de Dios; suena, trompeta de Gabriel; ¡Ay, pero como tarda en morir el mundo!
 
 ```
-# SESION #06 00/07/23
-- __PALABRAS  :__ `-`
-- __PUNTUACION:__ `-`
-- __ORTOGRAFIA:__ `-`
-- __GRAMATICA :__ `-`
-- __PAGINA    :__ `-`
+# SESION #06 16/07/23
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`711`|
+|PUNTUACION:|`71%`|
+|ORTOGRAFIA:|`11` |
+|GRAMATICA :|`10` |
+|PAGINA    :|`22` |
+```
+Se golpeara el pecho hasta derrumbarse, frente a las imágenes y las veladoras, con un acceso de tos. Tú la tomas de los codos, la conduces dulcemente hacia la cama, te sorprendes del tamaño de la mujer: casi una niña, doblada, corcovada, con la espina dorsal vencida: sabes que, de no ser por tu apoyo, tendría que regresar a gatas a la cama. La recuestas en el gran lecho de migajas y las lagrimas involuntarias le corren por las mejillas transparentes.
+
+--Perdón. .. Perdón, señor Montero ... A las solo nos queda. .. el placer de la devoción.. . Páseme el pañuelo, por favor.
+
+--La señorita Aura me dijo...
+
+--Si, exactamente. No quiero que perdamos tiempo ... Debe . .. debe empezar a trabajar cuanto antes. .. Gracias ...
+
+--Trate usted de descansar. 
+
+La vieja se llevara las manos al cuello, lo desabotonara, bajara la cabeza ára quitarse ese liston morado, luido, que ahora te entrega: pesado, porque una llave de cobre cuelga de la cinta.
+
+--En aquel rincón...Abra ese baúl y traiga los papeles que están a la derecha, encima de los demas...amarrados con un cordón amarillo...
+
+--No veo muy bien...
+
+--Ah, si ... Es que yo estoy tan acostumbrada a las tinieblas. A mi derecha...Camine y tropezara con el arcón...Es que nos amurallaron, señor Montero. Han construido alrededor de nosotras, nos han quitado la luz. Han querido obligarme a vender. Muertas, antes. Esta casa esta llena de recuerdos para nosotras. Solo muerta me sacaran de aquí. .. Eso es. Gracias. Puede usted empezar a leer esta parte. Ya le iré entregando lo demás. Buenas noches, señor Montero. Gracias. Mire: su candelabro se ha apagado. Enciéndalo afuera, por favor. No, no, quédese con la llave. Acéptela. Confió en usted.
+
+--Señora...Hay un nido de ratones en aquil rincón...
+
+--¿Ratones? Es que yo nunca voy hasta allá...
+
+--Debería usted traer a los gatos aquí.
+
+--¿Gatos? ¿Cuales gatos? Buenas noches. Voy a dormir. Estoy fatigada.
+
+--Buenas noches.
+
+
+
+Lees esa misma noche los papeles amarillos, escritos con una tinta color mostaza; a veces, horadados por el descuido de una ceniza de tabaco, manchados por moscas. EL francés del general Llorente no goza de las excelencias que su mujer le habrá atribuhido. Te dices que tú puedes mejorar considerablemente el estilo, apretar esa narración difusa de los hechos pasados: la infacía en una hacienda oaxaqueña de siglo XIX, los estudios militares en Fracía, la amistad con el Duque de Morny, con el circulo intimo de Napoleón III, el regreso a México en el estado mayor deazimiliano, las ceremonias y veladas del imperio, las batallas, el derrumbe, el Cerro de las Campanas, el exilio en París. Nada que no hayan contado otros. Te desnudas pensando en el capricho deformado de la anciana, en el falso valor que atribuye a estas memorias. Te acuestas sonriendo, pensando en tus cuatro mil pesos.
+
+Duermes, sin sonar, hasta que el chorro de luz te despierta, a las seis de la mañana, porque ese techo de vidrios no posee cortinas. Te cubres los ojo con la almohada y tratas de volver a dormir. A los diez minutos, olvidas tu propósito y caminas al baño, donde encuentras todas tus cosas dispuestas en una mesa, tus escasos trajes colgados en el ropero. Has terminado de afeitarte cuando ese maullido implorante y doloso destruye el silencio de la mañana.
+
+Llega a tus oídos con una vibración atroz, rasgante, imploración. Intentas ubicar su origen: abres la puerta que da al corredor y allí no lo escuchas: esos maullidos se cuelan desde lo alto, desde el tragaluz. Trepas velozmente a la silla, de la silla a la mesa de trabajo, y apoyándote en el librero puedes alcanzar el tragaluz, abrir uno de sus vidrios, elevarte con esfuerzo y clavar la mirada en ese jardín lateral, ese cubo de tejos y zarzas enmarañadas donde cinco, seis, siete gatos --no puedes contarlos: no puedes sostenerte allí mas de un segundo-- encadenados unos con otros, se revuelcan envueltos en fuego, desprenden un humo opaco, un olor de pelambre incendiada. Dudas, al caer sobre la butaca, si en realidad has visto eso: quizás solo uniste esa imagen a los maullidos espantosos que persisten, disminuyen, al cabo terminar.
+```
+# SESION #07 00/07/23
+|Categoria  |Valor|
+|-----------|-----|
+|PALABRAS  :|`-`  |
+|PUNTUACION:|`-`  |
+|ORTOGRAFIA:|`-`  |
+|GRAMATICA :|`-`  |
+|PAGINA    :|`-`  |
+|PAGINA    :|`-`  |
+....que persisten, disminuyen, al cabo terminar.
 ```
 
 ```
