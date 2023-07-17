@@ -295,14 +295,27 @@ Aura ya estará sentada; esta vez la cabecera la ocupara la señora Llorente, en
 
 Las fechas te confundirán, porque la señora esta hablando, con ese murmullo agudo, leve, ese chirreo de pájaro; le esta hablando Aura y tu escuchas, atento a la comida, ese enumeración plana de quejas, dolores, sospechas de enfermedades, mas quejas sobre el precio de las medicinas, la humedad de la casa. Quisieras intervenir en la conversación demostica preguntando por el criado que recogió ayer tus cosas pero al que nunca has visto, el que nun sirve la mesa: lo preguntarías si, de repente, no te sorprendiera que Aura, hasta ese momento, no hubiese abieto la boca y comiese con esa fatalidad mecánica, como si esperara un impulo ajeno a ella para tomar la cuchara, el cuchillo, partir lo rifiones --sientes en la boca, otra vez, esa dieta de rifiones, por lo visto la preferida de la casa-- y llevárselos a la boca. Miras rápidamente de la tía a la sobrina y de la sobrina a la tía, pero la señora Consuelo, en ese instante detiene todo movimiento y, al mismo tiempo, Aura deja el cuchillo sobre el plato y permanece inmóvil y tu recuerdas que, una fracción de segundo antes, la señora Consuelo hizo lo mismo.
 ```
-# SESION #08 00/07/23
+# SESION #08 17/07/23
 |Categoria  |Valor|
 |-----------|-----|
-|PALABRAS  :|`839`|
-|PUNTUACION:|`60%`|
-|ORTOGRAFIA:|`19` |
-|GRAMATICA :|`16` |
-|PAGINA    :|`25` |
+|PALABRAS  :|`681`|
+|PUNTUACION:|`61%`|
+|ORTOGRAFIA:|`17` |
+|GRAMATICA :|`10` |
+|PAGINA    :|`28` |
 ```
-...una fracción de segundo antes, la señora Consuelo hizo lo mismo.
+Permanecen varios minutos en silencio: tu terminando de comer, ellas inmóviles como estatuas, mirándote comer. Al cabo la señora dice:
+
+--Me he fatigado. No debería comer en la mesa. Ven, Aura, acompáñame a la recamara.
+
+La señora tratara de retener tu atención: te mirara de frente para que tu la mires, aunque sus palabras vayan dirigidas a la sobrina. Tu debes hacer un esfuerzo para  desprenderte de esa mirada --otra vez abierta, clara, amarilla, despojada de los velos y arrugas que normalmente la cubren-- y fijar la tuya en Aura, que a su vez mira fijamente hacia un punto perdido y mueve en silencio los labios, se levanta con actitudes similares a las que tu asocias con el sueño, toma de los brazos a la aciana jorobada y la conduce lentamente fuera del comedor.
+
+Solo, sirves el café que tambien ha estado allí desde el principio del almuerzo, el café frió que bebes a sorbos mientras frunces el seno y te preguntas si la señora no poseerá una fuerza secreta sobre la muchacha, si la muchacha, tu hermosa Aura vestida de verde, no estará encerrada contra su voluntad en esta casa vieja, sombría. Le sería, sin embargo, tan facíl escapar mientras la anciana dormita en su cuarto oscuro. Y no pasas por alto el camino que se abre en tu imaginación: quizás Aura esoera que tu ka salves de las cadenas que se abren en tu razón ocultam le ha impuesto esta vieja caprichosa y desequilibrada. Recuerdas a Aura minutos antes, inanímada, embrutecida por el terror: incapaz de hablar enfrente de la tirana, moviendo lo labios en silencio, como si en silencio te importara su libertad, prisionera al grado de imitar todos los movimientos de la señora Consuelo, como si solo le que hiciera la vieja le fuese permitido a la joven.
+
+La imagen de esta enajenación total te rebela: caminas, esta vez, hacía la otra puerta, la que da sobre el vestibulo al pie de la escalera, la que esta al lado de la recamara de la anciana: allí debe vivir Aura; no hay otra pieza  en la casa. Empujas la puerta y entras a esa recamara, también oscura, de paredes enjalbegadas, donde el único adorno es un `Cristo negro`. A la izquierda, vez esa pueta que debe conducir a la recaara de la viuda. Caminando de puntas, te acercas a ella, colocas la mano sobre la madera, desistes de tu empeño: debes hablar con Aura a solas.
+
+Y si Aura quiere que le ayudes, ella vendrá a tu cuarto. Parmaneces allí, olvidado de los papeles amarillos, de tus propias curtillas anotadas, pensando solo en la belleza inasible de tu Aura --mientras mas pienses en ella, mas tuya la harás, no solo poruqe piensas en su cabeza y la deseas, sino porque ahora la deseas para liberarla habrás encontrado una razón moral para tu deseo; te sentirás inocente y satisfecho-- y cuando vuelves a escuchar la precaución de la campana, no bajas a cenar porque no soportarías otra escena como la del mediodía. Quizás Aura se dará cuenta y, desués de la cena, subirá a buscarte.
+
+Realizas un esfuerzo para seguir revisando los papeles. Cansado, te desvistes lentamente, caes en el lecho, te duermes pronto y por primera vez en muchos años sueñas, sueñas una sola cosa, sueñas esa mano descarnada que avanzahacia ti con la campana en la mano, gritando que te alejes, despiertas con un grito mudo, sudado, y sientes esas manos que acarician tu rostro y tu pelo, esos labios que murmuran con las voz mas baja, te consuelan, te piden calma, que entonces agutara levemente el llavín que tu reconoces, y con el a la mujer que se recuesta encima de ti, te besa, te recorre el cuerpo entero con besos. No puedes verla en la oscuridad de la noche sin estrellas, pero hueles en su pelo el perfurme de las plantas del patio, sientes en tus brazos  la piel mas suave y ansiosa, tecas en sus senos la flor entrelazada de las venas sensibles, vuelves a besarla y no le pides paralabras.
+
 ```
